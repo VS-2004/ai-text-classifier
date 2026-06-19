@@ -1,0 +1,7 @@
+domain,label,n,avg_words,avg_sent_len
+academic,ai,222,43.9,14.2
+academic,human,447,47.7,15.9
+news,ai,222,40.0,13.4
+news,human,435,37.0,10.5
+social,ai,222,30.1,12.3
+social,human,452,24.9,11.0
