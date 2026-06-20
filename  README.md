@@ -10,7 +10,7 @@ content across social, news, and academic domains. 8-week capstone project.
 
 ## Phases
 - [x] Phase 1: EDA
-- [ ] Phase 2: Data Cleaning & Feature Engineering
+- [x] Phase 2: Data Cleaning & Feature Engineering
 - [ ] Phase 3: Baseline Modeling
 - [ ] Phase 4: Tuning & Cross-Domain Validation
 - [ ] Phase 5: Advanced Modeling
