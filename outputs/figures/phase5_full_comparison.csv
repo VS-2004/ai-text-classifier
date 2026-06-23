@@ -1,0 +1,8 @@
+model,accuracy,precision_ai,recall_ai,f1_ai
+TF-IDF only,0.5912,0.0,0.0,0.0
+Embeddings only,0.7508771929824561,1.0,0.3905579399141631,0.5617283950617284
+Structural only,0.6404,0.5654,0.5193,0.5414
+RandomForest (TF-IDF+structural),0.642105,1.0,0.124464,0.221374
+GradientBoosting (TF-IDF+structural),0.721053,1.0,0.317597,0.482085
+Embeddings + Structural (LR),0.8701754385964913,1.0,0.6824034334763949,0.8112244897959183
+"TF-IDF + Structural (LR, tuned)",0.8772,1.0,0.6996,0.8232

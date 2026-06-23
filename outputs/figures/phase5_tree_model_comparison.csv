@@ -1,0 +1,4 @@
+model,best_params,accuracy,precision_ai,recall_ai,f1_ai
+RandomForest,"{'clf__max_depth': None, 'clf__n_estimators': 400}",0.6421052631578947,1.0,0.12446351931330472,0.22137404580152673
+GradientBoosting,"{'clf__max_depth': 3, 'clf__n_estimators': 300}",0.7210526315789474,1.0,0.31759656652360513,0.4820846905537459
+LogisticRegression (Phase 4 baseline),"C=10, class_weight=balanced",0.8772,1.0,0.6996,0.8232

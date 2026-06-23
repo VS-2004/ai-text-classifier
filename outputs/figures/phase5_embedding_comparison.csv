@@ -1,0 +1,4 @@
+model,accuracy,precision_ai,recall_ai,f1_ai
+Embeddings + Structural (LR),0.8701754385964913,1.0,0.6824034334763949,0.8112244897959183
+Embeddings only (LR),0.7508771929824561,1.0,0.3905579399141631,0.5617283950617284
+TF-IDF + Structural (Phase 4 baseline),0.8772,1.0,0.6996,0.8232
