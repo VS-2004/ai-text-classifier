@@ -1,0 +1,2002 @@
+feature,coef
+struct__avg_word_length,3.49537447788593
+struct__domain_social,2.3781107845991416
+struct__punct_density,1.7304858375052683
+tfidf__to,1.4251834406977208
+struct__avg_sentence_length,1.3828296464089143
+struct__word_count,1.2611563939854908
+tfidf__causal,1.1688753917963117
+tfidf__see,1.1409210663095242
+tfidf__to see,1.1409210663095242
+tfidf__now,1.0441598549063587
+tfidf__are,0.9583944669175735
+tfidf__of,0.9523925590007485
+tfidf__an,0.9431631980028234
+tfidf__persistent,0.9255757387103896
+tfidf__potential,0.9093893876342658
+tfidf__both,0.886739691490004
+tfidf__the conversation,0.884164091156047
+tfidf__following,0.884164091156047
+tfidf__conversation,0.884164091156047
+tfidf__following the,0.884164091156047
+tfidf__progress,0.884164091156047
+tfidf__inference the,0.8465374112271369
+tfidf__key variables,0.8465374112271369
+tfidf__inference,0.8465374112271369
+tfidf__limiting,0.8465374112271369
+tfidf__has predominantly,0.8465374112271369
+tfidf__gap through,0.8465374112271369
+tfidf__gap,0.8465374112271369
+tfidf__designs limiting,0.8465374112271369
+tfidf__existing literature,0.8465374112271369
+tfidf__literature on,0.8465374112271369
+tfidf__designs,0.8465374112271369
+tfidf__cross sectional,0.8465374112271369
+tfidf__cross,0.8465374112271369
+tfidf__cohort study,0.8465374112271369
+tfidf__cohort,0.8465374112271369
+tfidf__causal inference,0.8465374112271369
+tfidf__years preliminary,0.8465374112271369
+tfidf__between key,0.8465374112271369
+tfidf__association 05,0.8465374112271369
+tfidf__association,0.8465374112271369
+tfidf__limiting causal,0.8465374112271369
+tfidf__through prospective,0.8465374112271369
+tfidf__05 between,0.8465374112271369
+tfidf__research addresses,0.8465374112271369
+tfidf__three,0.8465374112271369
+tfidf__this gap,0.8465374112271369
+tfidf__the present,0.8465374112271369
+tfidf__study spanning,0.8465374112271369
+tfidf__spanning three,0.8465374112271369
+tfidf__spanning,0.8465374112271369
+tfidf__significant association,0.8465374112271369
+tfidf__variables,0.8465374112271369
+tfidf__sectional designs,0.8465374112271369
+tfidf__sectional,0.8465374112271369
+tfidf__relied on,0.8465374112271369
+tfidf__years,0.8465374112271369
+tfidf__relied,0.8465374112271369
+tfidf__prospective cohort,0.8465374112271369
+tfidf__prospective,0.8465374112271369
+tfidf__present research,0.8465374112271369
+tfidf__present,0.8465374112271369
+tfidf__preliminary results,0.8465374112271369
+tfidf__preliminary,0.8465374112271369
+tfidf__predominantly,0.8465374112271369
+tfidf__on cross,0.8465374112271369
+tfidf__three years,0.8465374112271369
+tfidf__predominantly relied,0.8465374112271369
+tfidf__05,0.8465374112271369
+tfidf__addresses this,0.8465374112271369
+tfidf__addresses,0.8465374112271369
+tfidf__recommendations,0.8268952292448056
+tfidf__much potential,0.8229823283351859
+tfidf__moving,0.8229823283351859
+tfidf__things,0.8229823283351859
+tfidf__there so,0.8229823283351859
+tfidf__really fascinating,0.8229823283351859
+tfidf__really,0.8229823283351859
+tfidf__there,0.8229823283351859
+tfidf__approach it,0.8229823283351859
+tfidf__quickly things,0.8229823283351859
+tfidf__quickly,0.8229823283351859
+tfidf__are moving,0.8229823283351859
+tfidf__are your,0.8229823283351859
+tfidf__moving on,0.8229823283351859
+tfidf__much,0.8229823283351859
+tfidf__see how,0.8229823283351859
+tfidf__here if,0.8229823283351859
+tfidf__potential here,0.8229823283351859
+tfidf__what are,0.8229823283351859
+tfidf__how,0.8229823283351859
+tfidf__how quickly,0.8229823283351859
+tfidf__we approach,0.8229823283351859
+tfidf__fascinating to,0.8229823283351859
+tfidf__fascinating,0.8229823283351859
+tfidf__if we,0.8229823283351859
+tfidf__things are,0.8229823283351859
+tfidf__if,0.8229823283351859
+tfidf__thoughtfully,0.8229823283351859
+tfidf__your thoughts,0.8229823283351859
+tfidf__it thoughtfully,0.8229823283351859
+tfidf__so much,0.8229823283351859
+tfidf__thoughtfully what,0.8229823283351859
+tfidf__of the,0.807564939984959
+tfidf__mount,0.7982080749713527
+tfidf__to mount,0.7982080749713527
+tfidf__term planning,0.7982080749713527
+tfidf__emerges coalition,0.7982080749713527
+tfidf__coalition,0.7982080749713527
+tfidf__letter urging,0.7982080749713527
+tfidf__emerges,0.7982080749713527
+tfidf__concerns over,0.7982080749713527
+tfidf__mount as,0.7982080749713527
+tfidf__term,0.7982080749713527
+tfidf__as new,0.7982080749713527
+tfidf__tensions,0.7982080749713527
+tfidf__new evidence,0.7982080749713527
+tfidf__allocation,0.7982080749713527
+tfidf__allocation and,0.7982080749713527
+tfidf__tensions about,0.7982080749713527
+tfidf__letter,0.7982080749713527
+tfidf__about resource,0.7982080749713527
+tfidf__continue to,0.7982080749713527
+tfidf__resource allocation,0.7982080749713527
+tfidf__resource,0.7982080749713527
+tfidf__reflects deeper,0.7982080749713527
+tfidf__immediate,0.7982080749713527
+tfidf__reflects,0.7982080749713527
+tfidf__immediate action,0.7982080749713527
+tfidf__open letter,0.7982080749713527
+tfidf__open,0.7982080749713527
+tfidf__researchers has,0.7982080749713527
+tfidf__planning,0.7982080749713527
+tfidf__the debate,0.7982080749713527
+tfidf__urging immediate,0.7982080749713527
+tfidf__urging,0.7982080749713527
+tfidf__of researchers,0.7982080749713527
+tfidf__evidence emerges,0.7982080749713527
+tfidf__continue,0.7982080749713527
+tfidf__coalition of,0.7982080749713527
+tfidf__deeper,0.7982080749713527
+tfidf__debate reflects,0.7982080749713527
+tfidf__issued,0.7982080749713527
+tfidf__issued an,0.7982080749713527
+tfidf__has issued,0.7982080749713527
+tfidf__an open,0.7982080749713527
+tfidf__action,0.7982080749713527
+tfidf__action the,0.7982080749713527
+tfidf__deeper tensions,0.7982080749713527
+tfidf__and long,0.7982080749713527
+tfidf__debate,0.7982080749713527
+tfidf__long term,0.7982080749713527
+tfidf__as,0.7408182449798608
+tfidf__stakeholders,0.723261172809127
+tfidf__are now,0.723261172809127
+tfidf__experts,0.723261172809127
+tfidf__about,0.7223926509170494
+tfidf__attention,0.6870380273137217
+tfidf__so,0.6681642271299982
+tfidf__thoughts,0.6283862596367004
+tfidf__developments,0.5920934086061446
+tfidf__analysts,0.5920934086061446
+tfidf__and stakeholder,0.5613638023856632
+tfidf__recommendations are,0.5613638023856632
+tfidf__evidence and,0.5613638023856632
+tfidf__of persistent,0.5613638023856632
+tfidf__unique,0.5613638023856632
+tfidf__unique challenges,0.5613638023856632
+tfidf__case,0.5613638023856632
+tfidf__case analysis,0.5613638023856632
+tfidf__failure recommendations,0.5613638023856632
+tfidf__stakeholder consultation,0.5613638023856632
+tfidf__failure,0.5613638023856632
+tfidf__the governance,0.5613638023856632
+tfidf__jurisdictions this,0.5613638023856632
+tfidf__analysis,0.5613638023856632
+tfidf__jurisdictions,0.5613638023856632
+tfidf__six jurisdictions,0.5613638023856632
+tfidf__existing regulatory,0.5613638023856632
+tfidf__on comparative,0.5613638023856632
+tfidf__address drawing,0.5613638023856632
+tfidf__across six,0.5613638023856632
+tfidf__analysis across,0.5613638023856632
+tfidf__in empirical,0.5613638023856632
+tfidf__ill,0.5613638023856632
+tfidf__ill equipped,0.5613638023856632
+tfidf__and areas,0.5613638023856632
+tfidf__best,0.5613638023856632
+tfidf__best practices,0.5613638023856632
+tfidf__persistent failure,0.5613638023856632
+tfidf__six,0.5613638023856632
+tfidf__address,0.5613638023856632
+tfidf__governance,0.5613638023856632
+tfidf__study identifies,0.5613638023856632
+tfidf__areas of,0.5613638023856632
+tfidf__grounded,0.5613638023856632
+tfidf__comparative case,0.5613638023856632
+tfidf__comparative,0.5613638023856632
+tfidf__are grounded,0.5613638023856632
+tfidf__to address,0.5613638023856632
+tfidf__governance of,0.5613638023856632
+tfidf__are ill,0.5613638023856632
+tfidf__regulatory frameworks,0.5613638023856632
+tfidf__consultation,0.5613638023856632
+tfidf__identifies best,0.5613638023856632
+tfidf__presents unique,0.5613638023856632
+tfidf__presents,0.5613638023856632
+tfidf__regulatory,0.5613638023856632
+tfidf__stakeholder,0.5613638023856632
+tfidf__equipped,0.5613638023856632
+tfidf__equipped to,0.5613638023856632
+tfidf__grounded in,0.5613638023856632
+tfidf__challenges that,0.5613638023856632
+tfidf__practices,0.5613638023856632
+tfidf__practices and,0.5613638023856632
+tfidf__document highlights,0.5224321967798704
+tfidf__conversation around,0.5224321967798704
+tfidf__cooperation is,0.5224321967798704
+tfidf__solution,0.5224321967798704
+tfidf__the release,0.5224321967798704
+tfidf__is being,0.5224321967798704
+tfidf__cooperation,0.5224321967798704
+tfidf__comprehensive new,0.5224321967798704
+tfidf__both progress,0.5224321967798704
+tfidf__intensified following,0.5224321967798704
+tfidf__comprehensive,0.5224321967798704
+tfidf__international cooperation,0.5224321967798704
+tfidf__of comprehensive,0.5224321967798704
+tfidf__essential to,0.5224321967798704
+tfidf__essential,0.5224321967798704
+tfidf__cited,0.5224321967798704
+tfidf__the document,0.5224321967798704
+tfidf__urgent attention,0.5224321967798704
+tfidf__cited as,0.5224321967798704
+tfidf__meaningful,0.5224321967798704
+tfidf__to any,0.5224321967798704
+tfidf__made and,0.5224321967798704
+tfidf__new report,0.5224321967798704
+tfidf__made,0.5224321967798704
+tfidf__meaningful solution,0.5224321967798704
+tfidf__intensified,0.5224321967798704
+tfidf__international,0.5224321967798704
+tfidf__document,0.5224321967798704
+tfidf__urgent,0.5224321967798704
+tfidf__that require,0.5224321967798704
+tfidf__and persistent,0.5224321967798704
+tfidf__release,0.5224321967798704
+tfidf__progress made,0.5224321967798704
+tfidf__around,0.5224321967798704
+tfidf__release of,0.5224321967798704
+tfidf__as essential,0.5224321967798704
+tfidf__require urgent,0.5224321967798704
+tfidf__being,0.5224321967798704
+tfidf__being cited,0.5224321967798704
+tfidf__persistent gaps,0.5224321967798704
+tfidf__any,0.5224321967798704
+tfidf__any meaningful,0.5224321967798704
+tfidf__highlights both,0.5224321967798704
+tfidf__has intensified,0.5224321967798704
+tfidf__require,0.5224321967798704
+tfidf__highlights,0.5224321967798704
+tfidf__report the,0.5224321967798704
+tfidf__report,0.5224321967798704
+tfidf__attention international,0.5224321967798704
+tfidf__long,0.516054748095443
+tfidf__causal mechanisms,0.5157569986898091
+tfidf__further longitudinal,0.5157569986898091
+tfidf__models further,0.5157569986898091
+tfidf__multifaceted,0.5157569986898091
+tfidf__multifaceted dimensions,0.5157569986898091
+tfidf__capture both,0.5157569986898091
+tfidf__assess,0.5157569986898091
+tfidf__the multifaceted,0.5157569986898091
+tfidf__assess causal,0.5157569986898091
+tfidf__challenges reductive,0.5157569986898091
+tfidf__nuances,0.5157569986898091
+tfidf__nuances the,0.5157569986898091
+tfidf__contribute to,0.5157569986898091
+tfidf__employing,0.5157569986898091
+tfidf__employing mixed,0.5157569986898091
+tfidf__contribute,0.5157569986898091
+tfidf__qualitative,0.5157569986898091
+tfidf__models,0.5157569986898091
+tfidf__investigates,0.5157569986898091
+tfidf__reductive theoretical,0.5157569986898091
+tfidf__reductive,0.5157569986898091
+tfidf__an evolving,0.5157569986898091
+tfidf__is recommended,0.5157569986898091
+tfidf__study investigates,0.5157569986898091
+tfidf__recommended to,0.5157569986898091
+tfidf__literature that,0.5157569986898091
+tfidf__recommended,0.5157569986898091
+tfidf__longitudinal,0.5157569986898091
+tfidf__longitudinal research,0.5157569986898091
+tfidf__and qualitative,0.5157569986898091
+tfidf__theoretical models,0.5157569986898091
+tfidf__to an,0.5157569986898091
+tfidf__to assess,0.5157569986898091
+tfidf__mechanisms,0.5157569986898091
+tfidf__approach to,0.5157569986898091
+tfidf__methods,0.5157569986898091
+tfidf__methods approach,0.5157569986898091
+tfidf__quantitative patterns,0.5157569986898091
+tfidf__investigates the,0.5157569986898091
+tfidf__to capture,0.5157569986898091
+tfidf__quantitative,0.5157569986898091
+tfidf__qualitative nuances,0.5157569986898091
+tfidf__that challenges,0.5157569986898091
+tfidf__mixed methods,0.5157569986898091
+tfidf__capture,0.5157569986898091
+tfidf__dimensions of,0.5157569986898091
+tfidf__dimensions,0.5157569986898091
+tfidf__patterns and,0.5157569986898091
+tfidf__findings contribute,0.5157569986898091
+tfidf__evolving,0.5157569986898091
+tfidf__evolving body,0.5157569986898091
+tfidf__body of,0.5157569986898091
+tfidf__of literature,0.5157569986898091
+tfidf__both quantitative,0.5157569986898091
+tfidf__body,0.5157569986898091
+tfidf__research is,0.5157569986898091
+tfidf__patterns,0.5157569986898091
+tfidf__way to,0.5150723048432617
+tfidf__is happening,0.5150723048432617
+tfidf__long way,0.5150723048432617
+tfidf__now it,0.5150723048432617
+tfidf__for while,0.5150723048432617
+tfidf__people engaging,0.5150723048432617
+tfidf__with it,0.5150723048432617
+tfidf__encouraging,0.5150723048432617
+tfidf__progress is,0.5150723048432617
+tfidf__but progress,0.5150723048432617
+tfidf__see more,0.5150723048432617
+tfidf__we still,0.5150723048432617
+tfidf__have long,0.5150723048432617
+tfidf__more people,0.5150723048432617
+tfidf__to go,0.5150723048432617
+tfidf__seriously,0.5150723048432617
+tfidf__seriously we,0.5150723048432617
+tfidf__still,0.5150723048432617
+tfidf__conversation about,0.5150723048432617
+tfidf__still have,0.5150723048432617
+tfidf__while now,0.5150723048432617
+tfidf__been following,0.5150723048432617
+tfidf__go,0.5150723048432617
+tfidf__it encouraging,0.5150723048432617
+tfidf__happening,0.5150723048432617
+tfidf__go but,0.5150723048432617
+tfidf__it seriously,0.5150723048432617
+tfidf__engaging,0.5150723048432617
+tfidf__engaging with,0.5150723048432617
+tfidf__encouraging to,0.5150723048432617
+tfidf__concerns,0.5010013284190757
+tfidf__existing,0.5002393016699325
+tfidf__areas,0.4748107676994682
+tfidf__theoretical,0.4594002828476454
+tfidf__evidence,0.4581938721659218
+tfidf__concept of,0.44734687004246393
+tfidf__concept,0.44734687004246393
+tfidf__methodological standardization,0.44734687004246393
+tfidf__methodological,0.44734687004246393
+tfidf__interpretations,0.44734687004246393
+tfidf__need for,0.44734687004246393
+tfidf__frameworks have,0.44734687004246393
+tfidf__proposes,0.44734687004246393
+tfidf__proposes an,0.44734687004246393
+tfidf__have produced,0.44734687004246393
+tfidf__scholarly,0.44734687004246393
+tfidf__underscoring the,0.44734687004246393
+tfidf__space within,0.44734687004246393
+tfidf__competing interpretations,0.44734687004246393
+tfidf__inconsistent,0.44734687004246393
+tfidf__standardization this,0.44734687004246393
+tfidf__standardization,0.44734687004246393
+tfidf__contemporary,0.44734687004246393
+tfidf__contemporary scholarly,0.44734687004246393
+tfidf__contested,0.44734687004246393
+tfidf__contested space,0.44734687004246393
+tfidf__discourse divergent,0.44734687004246393
+tfidf__inconsistent empirical,0.44734687004246393
+tfidf__integrative,0.44734687004246393
+tfidf__to reconcile,0.44734687004246393
+tfidf__underscoring,0.44734687004246393
+tfidf__integrative framework,0.44734687004246393
+tfidf__for methodological,0.44734687004246393
+tfidf__divergent,0.44734687004246393
+tfidf__divergent theoretical,0.44734687004246393
+tfidf__reconcile,0.44734687004246393
+tfidf__paper proposes,0.44734687004246393
+tfidf__the need,0.44734687004246393
+tfidf__within contemporary,0.44734687004246393
+tfidf__produced,0.44734687004246393
+tfidf__findings underscoring,0.44734687004246393
+tfidf__produced inconsistent,0.44734687004246393
+tfidf__the concept,0.44734687004246393
+tfidf__reconcile competing,0.44734687004246393
+tfidf__theoretical frameworks,0.44734687004246393
+tfidf__empirical findings,0.44734687004246393
+tfidf__an integrative,0.44734687004246393
+tfidf__scholarly discourse,0.44734687004246393
+tfidf__framework,0.44734687004246393
+tfidf__framework to,0.44734687004246393
+tfidf__occupies contested,0.44734687004246393
+tfidf__occupies,0.44734687004246393
+tfidf__within,0.44734687004246393
+tfidf__drawn significant,0.4441556383694044
+tfidf__far reaching,0.4441556383694044
+tfidf__far,0.4441556383694044
+tfidf__experts suggest,0.4441556383694044
+tfidf__drawn,0.4441556383694044
+tfidf__developments surrounding,0.4441556383694044
+tfidf__reaching though,0.4441556383694044
+tfidf__coordinated,0.4441556383694044
+tfidf__coordinated response,0.4441556383694044
+tfidf__could,0.4441556383694044
+tfidf__could be,0.4441556383694044
+tfidf__have drawn,0.4441556383694044
+tfidf__surrounding,0.4441556383694044
+tfidf__significant attention,0.4441556383694044
+tfidf__alike experts,0.4441556383694044
+tfidf__though the,0.4441556383694044
+tfidf__implications could,0.4441556383694044
+tfidf__impact,0.4441556383694044
+tfidf__alike,0.4441556383694044
+tfidf__impact remains,0.4441556383694044
+tfidf__analysts and,0.4441556383694044
+tfidf__reaching,0.4441556383694044
+tfidf__and policymakers,0.4441556383694044
+tfidf__full,0.4441556383694044
+tfidf__seen,0.4441556383694044
+tfidf__from analysts,0.4441556383694044
+tfidf__the full,0.4441556383694044
+tfidf__multiple stakeholders,0.4441556383694044
+tfidf__be far,0.4441556383694044
+tfidf__remains to,0.4441556383694044
+tfidf__calling for,0.4441556383694044
+tfidf__calling,0.4441556383694044
+tfidf__be seen,0.4441556383694044
+tfidf__the implications,0.4441556383694044
+tfidf__multiple,0.4441556383694044
+tfidf__attention from,0.4441556383694044
+tfidf__new developments,0.4441556383694044
+tfidf__stakeholders are,0.4441556383694044
+tfidf__policymakers alike,0.4441556383694044
+tfidf__full impact,0.4441556383694044
+tfidf__seen multiple,0.4441556383694044
+tfidf__for coordinated,0.4441556383694044
+tfidf__policymakers,0.4441556383694044
+tfidf__now calling,0.4441556383694044
+tfidf__solutions,0.437254373932335
+tfidf__as one,0.4037824699924795
+tfidf__leading institutions,0.4037824699924795
+tfidf__according,0.4037824699924795
+tfidf__recommendations aimed,0.4037824699924795
+tfidf__now engaged,0.4037824699924795
+tfidf__is emerging,0.4037824699924795
+tfidf__experts from,0.4037824699924795
+tfidf__challenges of,0.4037824699924795
+tfidf__engaged,0.4037824699924795
+tfidf__the defining,0.4037824699924795
+tfidf__defining,0.4037824699924795
+tfidf__engaged in,0.4037824699924795
+tfidf__determine,0.4037824699924795
+tfidf__dialogue to,0.4037824699924795
+tfidf__dialogue,0.4037824699924795
+tfidf__stakeholders across,0.4037824699924795
+tfidf__aimed,0.4037824699924795
+tfidf__aimed at,0.4037824699924795
+tfidf__determine next,0.4037824699924795
+tfidf__of recommendations,0.4037824699924795
+tfidf__decade,0.4037824699924795
+tfidf__causes,0.4037824699924795
+tfidf__causes stakeholders,0.4037824699924795
+tfidf__at addressing,0.4037824699924795
+tfidf__defining challenges,0.4037824699924795
+tfidf__leading,0.4037824699924795
+tfidf__decade experts,0.4037824699924795
+tfidf__recently released,0.4037824699924795
+tfidf__emerging as,0.4037824699924795
+tfidf__according to,0.4037824699924795
+tfidf__the root,0.4037824699924795
+tfidf__in dialogue,0.4037824699924795
+tfidf__root,0.4037824699924795
+tfidf__one,0.4037824699924795
+tfidf__institutions,0.4037824699924795
+tfidf__institutions have,0.4037824699924795
+tfidf__one of,0.4037824699924795
+tfidf__from leading,0.4037824699924795
+tfidf__root causes,0.4037824699924795
+tfidf__have outlined,0.4037824699924795
+tfidf__addressing the,0.4037824699924795
+tfidf__addressing,0.4037824699924795
+tfidf__series,0.4037824699924795
+tfidf__outlined,0.4037824699924795
+tfidf__steps,0.4037824699924795
+tfidf__next,0.4037824699924795
+tfidf__outlined series,0.4037824699924795
+tfidf__the decade,0.4037824699924795
+tfidf__recently,0.4037824699924795
+tfidf__across sectors,0.4037824699924795
+tfidf__sectors,0.4037824699924795
+tfidf__sectors are,0.4037824699924795
+tfidf__to determine,0.4037824699924795
+tfidf__emerging,0.4037824699924795
+tfidf__released data,0.4037824699924795
+tfidf__next steps,0.4037824699924795
+tfidf__series of,0.4037824699924795
+tfidf__to recently,0.4037824699924795
+tfidf__way,0.4016887373986114
+tfidf__what,0.3858730696220681
+tfidf__significant,0.3678171267938777
+tfidf__here,0.3601843136460016
+tfidf__to be,0.35050244842257094
+tfidf__discourse,0.3211590622567351
+tfidf__need,0.27370640536391366
+tfidf__hopeful,0.26292440172482084
+tfidf__spent the,0.26292440172482084
+tfidf__focus,0.26292440172482084
+tfidf__the opportunities,0.26292440172482084
+tfidf__spent,0.26292440172482084
+tfidf__genuinely,0.26292440172482084
+tfidf__the morning,0.26292440172482084
+tfidf__genuinely hopeful,0.26292440172482084
+tfidf__focus on,0.26292440172482084
+tfidf__the challenges,0.26292440172482084
+tfidf__hopeful yes,0.26292440172482084
+tfidf__morning reading,0.26292440172482084
+tfidf__are the,0.26292440172482084
+tfidf__let,0.26292440172482084
+tfidf__reading,0.26292440172482084
+tfidf__reading about,0.26292440172482084
+tfidf__real,0.26292440172482084
+tfidf__real but,0.26292440172482084
+tfidf__and came,0.26292440172482084
+tfidf__are real,0.26292440172482084
+tfidf__so are,0.26292440172482084
+tfidf__yes,0.26292440172482084
+tfidf__challenges are,0.26292440172482084
+tfidf__let focus,0.26292440172482084
+tfidf__yes the,0.26292440172482084
+tfidf__away genuinely,0.26292440172482084
+tfidf__opportunities let,0.26292440172482084
+tfidf__opportunities,0.26292440172482084
+tfidf__on solutions,0.26292440172482084
+tfidf__but so,0.26292440172482084
+tfidf__away,0.26292440172482084
+tfidf__morning,0.26292440172482084
+tfidf__came away,0.26292440172482084
+tfidf__turning point,0.25093522144853786
+tfidf__turning,0.25093522144853786
+tfidf__that have,0.25093522144853786
+tfidf__observers,0.25093522144853786
+tfidf__for reform,0.25093522144853786
+tfidf__noting that,0.25093522144853786
+tfidf__noting,0.25093522144853786
+tfidf__closely,0.25093522144853786
+tfidf__point the,0.25093522144853786
+tfidf__potential turning,0.25093522144853786
+tfidf__closely watching,0.25093522144853786
+tfidf__cautiously optimistic,0.25093522144853786
+tfidf__observers remain,0.25093522144853786
+tfidf__resisted,0.25093522144853786
+tfidf__resisted easy,0.25093522144853786
+tfidf__that recent,0.25093522144853786
+tfidf__underscores,0.25093522144853786
+tfidf__watching developments,0.25093522144853786
+tfidf__cautiously,0.25093522144853786
+tfidf__watching,0.25093522144853786
+tfidf__underscores long,0.25093522144853786
+tfidf__optimistic about,0.25093522144853786
+tfidf__optimistic,0.25093522144853786
+tfidf__events,0.25093522144853786
+tfidf__events mark,0.25093522144853786
+tfidf__standing,0.25093522144853786
+tfidf__remain cautiously,0.25093522144853786
+tfidf__standing structural,0.25093522144853786
+tfidf__structural issues,0.25093522144853786
+tfidf__prospects,0.25093522144853786
+tfidf__long standing,0.25093522144853786
+tfidf__solutions observers,0.25093522144853786
+tfidf__analysts are,0.25093522144853786
+tfidf__mark,0.25093522144853786
+tfidf__issues,0.25093522144853786
+tfidf__mark potential,0.25093522144853786
+tfidf__situation underscores,0.25093522144853786
+tfidf__issues that,0.25093522144853786
+tfidf__are closely,0.25093522144853786
+tfidf__related,0.25093522144853786
+tfidf__prospects for,0.25093522144853786
+tfidf__recent events,0.25093522144853786
+tfidf__about prospects,0.25093522144853786
+tfidf__have resisted,0.25093522144853786
+tfidf__related to,0.25093522144853786
+tfidf__easy,0.25093522144853786
+tfidf__easy solutions,0.25093522144853786
+tfidf__developments related,0.25093522144853786
+tfidf__approach,0.2458768655231064
+tfidf__reform,0.2458438292289742
+tfidf__at,0.23927927577179725
+tfidf__frameworks,0.2338635079876344
+tfidf__areas has,0.22578684117872314
+tfidf__digital,0.22233023392619683
+tfidf__divide,0.22233023392619683
+tfidf__in rural,0.22233023392619683
+tfidf__rural,0.22233023392619683
+tfidf__rural areas,0.22233023392619683
+tfidf__digital divide,0.22233023392619683
+tfidf__divide in,0.22233023392619683
+tfidf__space,0.22183732199843798
+tfidf__energy policy,0.22163749374163494
+tfidf__nuclear,0.22163749374163494
+tfidf__nuclear energy,0.22163749374163494
+tfidf__new,0.2137661560927432
+tfidf__water scarcity,0.20480256776934536
+tfidf__water,0.20480256776934536
+tfidf__scarcity,0.20480256776934536
+tfidf__gig,0.2010065920968176
+tfidf__economy labor,0.2010065920968176
+tfidf__gig economy,0.2010065920968176
+tfidf__rights,0.2010065920968176
+tfidf__labor rights,0.2010065920968176
+tfidf__labor,0.2010065920968176
+tfidf__economy,0.2010065920968176
+tfidf__identifies,0.1933519735587921
+tfidf__gaps that,0.18761399592325806
+tfidf__gaps,0.18761399592325806
+tfidf__this study,0.1864416804549898
+tfidf__editing,0.18013982140549528
+tfidf__ethics,0.18013982140549528
+tfidf__editing ethics,0.18013982140549528
+tfidf__gene,0.18013982140549528
+tfidf__gene editing,0.18013982140549528
+tfidf__further,0.17073724804920556
+tfidf__shortages,0.15620509731252322
+tfidf__housing,0.15620509731252322
+tfidf__housing shortages,0.15620509731252322
+tfidf__urban,0.15620509731252322
+tfidf__urban housing,0.15620509731252322
+tfidf__on gene,0.15541812744419456
+tfidf__energy,0.15451772049620807
+tfidf__ethics there,0.15226103988982842
+tfidf__we,0.15170675043627982
+tfidf__competing,0.14442573565828212
+tfidf__of gig,0.1413473582789038
+tfidf__have,0.14026981292662147
+tfidf__hiring there,0.134419644962748
+tfidf__remain,0.13304005063718238
+tfidf__around digital,0.13090994883727422
+tfidf__people,0.13068094643778694
+tfidf__biodiversity,0.12946092109954335
+tfidf__biodiversity loss,0.12946092109954335
+tfidf__loss,0.12946092109954335
+tfidf__about water,0.127791196824499
+tfidf__algorithmic bias,0.1233595396703336
+tfidf__in hiring,0.1233595396703336
+tfidf__bias,0.1233595396703336
+tfidf__bias in,0.1233595396703336
+tfidf__hiring,0.1233595396703336
+tfidf__algorithmic,0.1233595396703336
+tfidf__of nuclear,0.12014551842204357
+tfidf__around algorithmic,0.11764691946547469
+tfidf__transit investment,0.11565576290434186
+tfidf__transit,0.11565576290434186
+tfidf__public transit,0.11565576290434186
+tfidf__investment,0.11565576290434186
+tfidf__policy presents,0.11329310475373482
+tfidf__about student,0.11252574649499694
+tfidf__crisis,0.11202183778799234
+tfidf__student debt,0.11202183778799234
+tfidf__debt crisis,0.11202183778799234
+tfidf__debt,0.11202183778799234
+tfidf__student,0.11202183778799234
+tfidf__hiring has,0.11180300048154496
+tfidf__on digital,0.10753997287530596
+tfidf__over urban,0.10654600059581545
+tfidf__shortages continue,0.10654600059581545
+tfidf__of aging,0.10424566285813185
+tfidf__across,0.10394458368645905
+tfidf__crisis for,0.10246268320197774
+tfidf__of remote,0.10184145274140027
+tfidf__rights presents,0.1013912992634894
+tfidf__study,0.10071194311051554
+tfidf__investment has,0.09473404540933834
+tfidf__of supply,0.09439911105902049
+tfidf__of biodiversity,0.09374695141770018
+tfidf__safety there,0.09216902897626061
+tfidf__of gene,0.09046497044361622
+tfidf__on autonomous,0.08975394845704045
+tfidf__on algorithmic,0.08956560406383558
+tfidf__challenges continue,0.08932331030061909
+tfidf__adoption continue,0.08852000832728965
+tfidf__over renewable,0.08852000832728965
+tfidf__over election,0.08811471596433998
+tfidf__concerns continue,0.08811471596433998
+tfidf__nations there,0.08623264745605684
+tfidf__crisis is,0.08420201877063828
+tfidf__data student,0.08420201877063828
+tfidf__campaigns has,0.0835159892108575
+tfidf__on student,0.08103400458377945
+tfidf__be,0.0808052215076144
+tfidf__about urban,0.08038821770915089
+tfidf__ethics has,0.08011276073120684
+tfidf__scarcity for,0.08010610946643067
+tfidf__shortages for,0.07870198736145968
+tfidf__productivity employing,0.07819722687749993
+tfidf__productivity there,0.07755156362915176
+tfidf__of digital,0.07529587950775307
+tfidf__policy for,0.07511283254360551
+tfidf__of data,0.07435223312803202
+tfidf__misinformation has,0.07358640604455151
+tfidf__about nuclear,0.0728502938595219
+tfidf__over aging,0.07218154395479735
+tfidf__over antibiotic,0.07148481778983223
+tfidf__resistance continue,0.07148481778983223
+tfidf__of social,0.0712827193440102
+tfidf__investment employing,0.07050251743379451
+tfidf__of public,0.06898034487979553
+tfidf__surrounding remote,0.06710085182112552
+tfidf__misinformation presents,0.06522492505789085
+tfidf__investment there,0.06450455920558158
+tfidf__hiring is,0.06406086307399123
+tfidf__data algorithmic,0.06406086307399123
+tfidf__on nuclear,0.06319304342226982
+tfidf__milestones continue,0.06249878473991337
+tfidf__over space,0.06249878473991337
+tfidf__scarcity and,0.06137420206049912
+tfidf__debates presents,0.06022121805518366
+tfidf__around water,0.05912569908346697
+tfidf__about gig,0.05875263233419209
+tfidf__ethics occupies,0.05869880644042001
+tfidf__trends there,0.05833852033011879
+tfidf__debates has,0.05773444559186255
+tfidf__challenges employing,0.057080376767008556
+tfidf__loss employing,0.056275825096673664
+tfidf__adoption presents,0.055901519167762294
+tfidf__of climate,0.054875712253164594
+tfidf__on public,0.05428343604607204
+tfidf__of genomic,0.054277733261967234
+tfidf__disruptions employing,0.05426295178972288
+tfidf__loss has,0.05416388698065747
+tfidf__around renewable,0.053475677437646196
+tfidf__productivity occupies,0.053008022649088125
+tfidf__strategies employing,0.05294004184843402
+tfidf__of algorithmic,0.05274171013731478
+tfidf__of education,0.052405634607519444
+tfidf__surrounding water,0.051526418482869825
+tfidf__productivity have,0.05075986315225414
+tfidf__over artificial,0.05044313211284978
+tfidf__regulation continue,0.05044313211284978
+tfidf__challenges occupies,0.049376825522026026
+tfidf__safety employing,0.04937093518014342
+tfidf__loss is,0.04857154461094158
+tfidf__data biodiversity,0.04857154461094158
+tfidf__resistance presents,0.04694626143153153
+tfidf__data food,0.04678780914476966
+tfidf__nations is,0.04678780914476966
+tfidf__resistance has,0.04672595081033362
+tfidf__about renewable,0.046093037353108365
+tfidf__trends employing,0.04603989210137491
+tfidf__education reform,0.04509927008353747
+tfidf__reform debates,0.04509927008353747
+tfidf__education,0.04509927008353747
+tfidf__milestones there,0.0448212269499056
+tfidf__challenges presents,0.04435485912347641
+tfidf__about biodiversity,0.04433452044344611
+tfidf__around social,0.043708992664423844
+tfidf__milestones occupies,0.043009645851453206
+tfidf__surrounding economic,0.04300457405649674
+tfidf__empirical,0.042589475515609994
+tfidf__breakthroughs occupies,0.04257765365496701
+tfidf__of economic,0.04236964042775121
+tfidf__around urban,0.042279799174461695
+tfidf__challenges there,0.04223781212289785
+tfidf__of autonomous,0.04186177955971727
+tfidf__key,0.041521154865911986
+tfidf__of water,0.04128216035335478
+tfidf__around supply,0.04082964639510965
+tfidf__data urban,0.040729240831614194
+tfidf__shortages is,0.040729240831614194
+tfidf__around food,0.04051420010950915
+tfidf__data education,0.03918367391723121
+tfidf__debates is,0.03918367391723121
+tfidf__breakthroughs there,0.03874321831748077
+tfidf__scarcity has,0.03850753421352336
+tfidf__legislation occupies,0.03768236399408713
+tfidf__surrounding urban,0.037343817355461544
+tfidf__of urban,0.03733754094775733
+tfidf__to digital,0.03705259711120157
+tfidf__areas noting,0.03705259711120157
+tfidf__disruptions occupies,0.036698851492674496
+tfidf__around public,0.036562154402888555
+tfidf__policy has,0.03652472736024077
+tfidf__surrounding supply,0.03623713238799848
+tfidf__surrounding education,0.03566023325782758
+tfidf__of space,0.03528693390472665
+tfidf__loss occupies,0.03506731418236661
+tfidf__to public,0.0348627399366519
+tfidf__investment noting,0.0348627399366519
+tfidf__of renewable,0.03443891603763499
+tfidf__trends is,0.03420870011745851
+tfidf__data economic,0.03420870011745851
+tfidf__to gig,0.034193338327538375
+tfidf__rights noting,0.034193338327538375
+tfidf__scarcity have,0.03402191698324768
+tfidf__campaigns occupies,0.03357371952110957
+tfidf__of antibiotic,0.033271348389973567
+tfidf__challenges and,0.03308560214155352
+tfidf__safety occupies,0.03297064928978103
+tfidf__surrounding renewable,0.03281246147195901
+tfidf__surrounding public,0.03250260614305628
+tfidf__surrounding autonomous,0.03249466792355084
+tfidf__crisis has,0.03247574007505528
+tfidf__volatility presents,0.031770034073140024
+tfidf__around antibiotic,0.031408225743372715
+tfidf__shortages noting,0.030773658959209433
+tfidf__to urban,0.030773658959209433
+tfidf__indicate statistically,0.030580998484687386
+tfidf__between,0.030580998484687386
+tfidf__indicate,0.030580998484687386
+tfidf__statistically significant,0.030580998484687386
+tfidf__statistically,0.030580998484687386
+tfidf__results indicate,0.030580998484687386
+struct__domain_news,0.030421227148224293
+tfidf__regulation is,0.03008271821903208
+tfidf__data artificial,0.03008271821903208
+tfidf__regulation occupies,0.02999787927075215
+tfidf__to supply,0.029934215031851685
+tfidf__disruptions noting,0.029934215031851685
+tfidf__of artificial,0.029391860539941004
+tfidf__surrounding aging,0.029216033098254355
+tfidf__shortages have,0.028998758053323092
+tfidf__surrounding mental,0.028831968423022263
+tfidf__investment for,0.02871189403253985
+tfidf__about public,0.02871189403253985
+tfidf__data genomic,0.027638413888645505
+tfidf__breakthroughs is,0.027638413888645505
+tfidf__on biodiversity,0.027316485739635285
+tfidf__concerns occupies,0.02729797899655594
+tfidf__strategies occupies,0.026910211920842957
+tfidf__surrounding antibiotic,0.026607037706853815
+tfidf__on gig,0.026436706322717003
+tfidf__data climate,0.025558266936175106
+tfidf__strategies is,0.025558266936175106
+tfidf__about gene,0.025456034833209126
+tfidf__loss for,0.025398085168603052
+tfidf__surrounding space,0.02534801079332907
+tfidf__to mental,0.025122381246046373
+tfidf__campaigns noting,0.025122381246046373
+tfidf__safety,0.0249385579801833
+tfidf__vehicle safety,0.0249385579801833
+tfidf__autonomous,0.0249385579801833
+tfidf__autonomous vehicle,0.0249385579801833
+tfidf__vehicle,0.0249385579801833
+tfidf__infrastructure there,0.024894369256950214
+tfidf__adoption for,0.024806735714736163
+tfidf__about food,0.02472594545938222
+tfidf__to food,0.024604960115495702
+tfidf__nations noting,0.024604960115495702
+tfidf__regulation there,0.02455727172510528
+tfidf__disruptions have,0.024398096089714206
+tfidf__rights for,0.024373347161993856
+tfidf__challenges,0.024271158397816274
+tfidf__surrounding climate,0.023550968113089082
+tfidf__challenges is,0.02255960425131376
+tfidf__data vaccine,0.02255960425131376
+tfidf__nations,0.022254371486917883
+tfidf__security in,0.022254371486917883
+tfidf__developing nations,0.022254371486917883
+tfidf__security,0.022254371486917883
+tfidf__developing,0.022254371486917883
+tfidf__food,0.022254371486917883
+tfidf__food security,0.022254371486917883
+tfidf__in developing,0.022254371486917883
+tfidf__ethics have,0.022126651990260468
+tfidf__challenges noting,0.02160936294276667
+tfidf__to vaccine,0.02160936294276667
+tfidf__investment have,0.020605432741694928
+tfidf__trends have,0.020556194947423802
+tfidf__of mental,0.020402467588385383
+tfidf__legislation has,0.020232417552359896
+tfidf__of cryptocurrency,0.020202287483849248
+tfidf__on data,0.020175924200590757
+tfidf__on antibiotic,0.020043744786736446
+tfidf__about education,0.019827157098016506
+tfidf__about supply,0.01981490132065281
+tfidf__on education,0.019499226982633674
+tfidf__surrounding cryptocurrency,0.01835869677507325
+tfidf__infrastructure occupies,0.017931657518719894
+tfidf__policy have,0.01726341655250972
+tfidf__about data,0.017068026462786087
+tfidf__debates have,0.01684888831161834
+tfidf__of cybersecurity,0.0166598189362617
+tfidf__campaigns have,0.01611927579863512
+tfidf__disruptions has,0.015830813494253745
+tfidf__about aging,0.015579728083927269
+tfidf__of election,0.015138684074066884
+tfidf__on mental,0.015098747150593396
+tfidf__privacy,0.015000439747434063
+tfidf__legislation,0.015000439747434063
+tfidf__privacy legislation,0.015000439747434063
+tfidf__data privacy,0.015000439747434063
+tfidf__milestones noting,0.01492642028738698
+tfidf__to space,0.01492642028738698
+tfidf__supply,0.01466436456528863
+tfidf__supply chain,0.01466436456528863
+tfidf__chain,0.01466436456528863
+tfidf__chain disruptions,0.01466436456528863
+tfidf__disruptions,0.01466436456528863
+tfidf__adoption have,0.01450944970674989
+tfidf__to climate,0.014471436078152718
+tfidf__strategies noting,0.014471436078152718
+tfidf__hiring have,0.013537298509353729
+tfidf__about vaccine,0.01348328211966499
+tfidf__of food,0.013372673735430088
+tfidf__ethics for,0.013139926182667587
+tfidf__nations and,0.011503050302698523
+tfidf__of vaccine,0.011426421835735496
+tfidf__to cryptocurrency,0.01102867901121039
+tfidf__volatility noting,0.01102867901121039
+tfidf__work,0.010389263793389173
+tfidf__productivity,0.010389263793389173
+tfidf__remote,0.010389263793389173
+tfidf__remote work,0.010389263793389173
+tfidf__work productivity,0.010389263793389173
+tfidf__about digital,0.010384543436417447
+tfidf__regulation noting,0.009963329352099926
+tfidf__to artificial,0.009963329352099926
+tfidf__challenges have,0.008777835746858222
+tfidf__shortages and,0.008532607992952117
+tfidf__loss have,0.007249683017650802
+tfidf__about election,0.006702557068754088
+tfidf__rights and,0.0065906120228012635
+tfidf__strategies have,0.006561829241313287
+tfidf__resistance have,0.0064857628887508975
+tfidf__misinformation have,0.005752575661095483
+tfidf__safety has,0.005532069654304743
+tfidf__about genomic,0.0051660141845970824
+tfidf__nations have,0.004717287339187745
+tfidf__about space,0.004477893813988908
+tfidf__infrastructure has,0.004055469784812786
+tfidf__areas and,0.0035833923226442667
+tfidf__milestones have,0.0030852672052014973
+tfidf__social,0.0029660744250166755
+tfidf__social media,0.0029660744250166755
+tfidf__media,0.0029660744250166755
+tfidf__media misinformation,0.0029660744250166755
+tfidf__misinformation,0.0029660744250166755
+tfidf__safety have,0.0028027105434388034
+tfidf__concerns have,0.002601321189020905
+tfidf__legislation for,0.001460654697160309
+tfidf__safety for,0.0013533885971416222
+tfidf__about antibiotic,0.0010563746619925067
+tfidf__concerns for,0.0009029023339748526
+tfidf__about economic,0.0008999867914853587
+tfidf__about autonomous,0.0006691656409962194
+tfidf__misinformation for,0.00045356328811046857
+tfidf__rights has,0.00035231936666365335
+struct__exclaim_count,0.0
+tfidf__rights happened,-0.0003424483440842465
+tfidf__so gig,-0.0003424483440842465
+tfidf__legislation happened,-0.0003538684112647045
+tfidf__so data,-0.0003538684112647045
+tfidf__adoption happened,-0.0003552964328186189
+tfidf__so renewable,-0.0003552964328186189
+tfidf__so public,-0.0003561044670804611
+tfidf__investment happened,-0.0003561044670804611
+tfidf__so aging,-0.0003630880525397648
+tfidf__about social,-0.0003823652967042076
+tfidf__disruptions and,-0.00044839785853162753
+tfidf__so student,-0.0004986369132464715
+tfidf__crisis happened,-0.0004986369132464715
+tfidf__so supply,-0.0005117784241317915
+tfidf__disruptions happened,-0.0005117784241317915
+tfidf__so education,-0.0005145135050312108
+tfidf__debates happened,-0.0005145135050312108
+tfidf__so vaccine,-0.0005290095158070305
+tfidf__ethics happened,-0.000649502197429372
+tfidf__so gene,-0.000649502197429372
+tfidf__so water,-0.0006549702448429204
+tfidf__scarcity happened,-0.0006549702448429204
+tfidf__loss happened,-0.0006645915151988094
+tfidf__so biodiversity,-0.0006645915151988094
+tfidf__infrastructure happened,-0.0006740502737867
+tfidf__so cybersecurity,-0.0006740502737867
+tfidf__so antibiotic,-0.0006742700196526041
+tfidf__resistance happened,-0.0006742700196526041
+tfidf__concerns happened,-0.0008178883611209379
+tfidf__so election,-0.0008178883611209379
+tfidf__challenges happened,-0.0008258071703684794
+tfidf__so cryptocurrency,-0.0008325690038372677
+tfidf__volatility happened,-0.0008325690038372677
+tfidf__areas keeps,-0.0011515466052526777
+tfidf__why digital,-0.0011515466052526777
+tfidf__hiring keeps,-0.001196718867114993
+tfidf__why algorithmic,-0.001196718867114993
+tfidf__why urban,-0.0012954492895706853
+tfidf__shortages keeps,-0.0012954492895706853
+tfidf__legislation keeps,-0.0013207273735172944
+tfidf__why data,-0.0013207273735172944
+tfidf__why renewable,-0.0013983916237859822
+tfidf__adoption keeps,-0.0013983916237859822
+tfidf__why food,-0.0014594946439152085
+tfidf__nations keeps,-0.0014594946439152085
+tfidf__misinformation keeps,-0.0015646372017891926
+tfidf__why social,-0.0015646372017891926
+tfidf__campaigns keeps,-0.0016422487014492021
+tfidf__why mental,-0.0016422487014492021
+tfidf__why biodiversity,-0.001775386058834112
+tfidf__loss keeps,-0.001775386058834112
+tfidf__strategies keeps,-0.0019322582852234463
+tfidf__why climate,-0.0019322582852234463
+tfidf__areas emergency,-0.0019961439174228744
+tfidf__why vaccine,-0.0020155265216555236
+tfidf__why gene,-0.002060419149954326
+tfidf__ethics keeps,-0.002060419149954326
+tfidf__crisis emergency,-0.002245376216795361
+tfidf__ethics emergency,-0.002262637667783735
+tfidf__why artificial,-0.0023753583942358893
+tfidf__regulation keeps,-0.0023753583942358893
+tfidf__debates emergency,-0.002428888877486178
+tfidf__adoption emergency,-0.0024419348447620557
+tfidf__trends emergency,-0.0024600018094811642
+tfidf__productivity keeps,-0.0024855084022126278
+tfidf__why remote,-0.0024855084022126278
+tfidf__why supply,-0.002495233929788813
+tfidf__disruptions keeps,-0.002495233929788813
+tfidf__strategies emergency,-0.002507805484429324
+tfidf__breakthroughs keeps,-0.0025816928974031583
+tfidf__why genomic,-0.0025816928974031583
+tfidf__breakthroughs emergency,-0.0026184385320015715
+tfidf__investment keeps,-0.0026347751640130577
+tfidf__why public,-0.0026347751640130577
+tfidf__regulation emergency,-0.0027708451013070965
+tfidf__concerns has,-0.00292823496988372
+tfidf__legislation and,-0.003060096953875268
+tfidf__why education,-0.003081215152843251
+tfidf__debates keeps,-0.003081215152843251
+tfidf__policy emergency,-0.003349458701959642
+tfidf__about climate,-0.00337382636067978
+tfidf__why aging,-0.0034373907789295036
+tfidf__legislation emergency,-0.0034755516023010336
+tfidf__concerns keeps,-0.0035737972620731424
+tfidf__why election,-0.0035737972620731424
+tfidf__misinformation emergency,-0.003617535529357192
+tfidf__milestones keeps,-0.0037599471857932667
+tfidf__why space,-0.0037599471857932667
+tfidf__volatility emergency,-0.0038748893355946366
+tfidf__why cryptocurrency,-0.0039532019713334875
+tfidf__volatility keeps,-0.0039532019713334875
+tfidf__nations emergency,-0.004053562012432938
+tfidf__challenges for,-0.004066538774738144
+tfidf__scarcity emergency,-0.004419569001182269
+tfidf__campaigns emergency,-0.004488557639960989
+tfidf__productivity emergency,-0.0044935326531376305
+tfidf__loss emergency,-0.004622935518984813
+tfidf__why cybersecurity,-0.00476060840316956
+tfidf__infrastructure keeps,-0.00476060840316956
+tfidf__challenges emergency,-0.004768960993376669
+tfidf__breakthroughs for,-0.004795869342383269
+tfidf__challenges keeps,-0.005024368263262317
+tfidf__safety emergency,-0.005542254770740249
+tfidf__investment emergency,-0.005570420079027995
+tfidf__milestones emergency,-0.005828748743678194
+tfidf__shortages emergency,-0.006353822646540877
+tfidf__is unhinged,-0.006429654409895511
+tfidf__my timeline,-0.006429654409895511
+tfidf__way more,-0.006429654409895511
+tfidf__happened and,-0.006429654409895511
+tfidf__happened,-0.006429654409895511
+tfidf__tbh,-0.006429654409895511
+tfidf__down,-0.006429654409895511
+tfidf__down and,-0.006429654409895511
+tfidf__be way,-0.006429654409895511
+tfidf__and my,-0.006429654409895511
+tfidf__to calm,-0.006429654409895511
+tfidf__my,-0.006429654409895511
+tfidf__calm,-0.006429654409895511
+tfidf__unhinged some,-0.006429654409895511
+tfidf__calm down,-0.006429654409895511
+tfidf__timeline is,-0.006429654409895511
+tfidf__more concerned,-0.006429654409895511
+tfidf__timeline,-0.006429654409895511
+tfidf__and some,-0.006429654409895511
+tfidf__unhinged,-0.006429654409895511
+tfidf__concerned,-0.006429654409895511
+tfidf__concerned tbh,-0.006429654409895511
+tfidf__concerns emergency,-0.0067247305731018125
+tfidf__infrastructure emergency,-0.006866205908141342
+tfidf__loss and,-0.006951921322978046
+tfidf__adoption has,-0.007115889270162549
+tfidf__on aging,-0.007443307738779876
+tfidf__on social,-0.008142627880230591
+tfidf__and honestly,-0.00859144469218463
+tfidf__okay so,-0.00859144469218463
+tfidf__rn thread,-0.00859144469218463
+tfidf__read about,-0.00859144469218463
+tfidf__why is,-0.00859144469218463
+tfidf__not getting,-0.00859144469218463
+tfidf__not,-0.00859144469218463
+tfidf__okay,-0.00859144469218463
+tfidf__read,-0.00859144469218463
+tfidf__rn,-0.00859144469218463
+tfidf__attention rn,-0.00859144469218463
+tfidf__getting more,-0.00859144469218463
+tfidf__many thoughts,-0.00859144469218463
+tfidf__many,-0.00859144469218463
+tfidf__so just,-0.00859144469218463
+tfidf__more attention,-0.00859144469218463
+tfidf__thread,-0.00859144469218463
+tfidf__just read,-0.00859144469218463
+tfidf__have so,-0.00859144469218463
+tfidf__just,-0.00859144469218463
+tfidf__getting,-0.00859144469218463
+tfidf__thoughts like,-0.00859144469218463
+tfidf__this not,-0.00859144469218463
+tfidf__so many,-0.00859144469218463
+tfidf__is this,-0.00859144469218463
+tfidf__honestly have,-0.00859144469218463
+tfidf__honestly,-0.00859144469218463
+tfidf__like why,-0.00859144469218463
+tfidf__legislation have,-0.008668591204057614
+tfidf__volatility have,-0.009776188393967563
+tfidf__about remote,-0.009947580028809282
+tfidf__rights have,-0.010156480173414799
+tfidf__areas for,-0.010188126227667989
+tfidf__productivity for,-0.010336403171137347
+tfidf__resistance for,-0.011106121315697182
+tfidf__ethics and,-0.011984895480620258
+tfidf__some of,-0.012859308819791021
+tfidf__some,-0.012859308819791021
+tfidf__need to,-0.012859308819791021
+tfidf__of you,-0.012859308819791021
+tfidf__you need,-0.012859308819791021
+tfidf__breakthroughs have,-0.013817121216107718
+tfidf__milestones and,-0.01431935409747635
+tfidf__strategies for,-0.014482695471896501
+tfidf__infrastructure have,-0.014520550504113201
+tfidf__shortages has,-0.014997177869595073
+tfidf__debates for,-0.015286167501886133
+tfidf__ethics researchers,-0.017091264308807197
+tfidf__areas the,-0.017624221960606604
+tfidf__on water,-0.017663147793596103
+tfidf__crisis it,-0.01857543769641448
+tfidf__rights it,-0.01870613015614864
+tfidf__that gig,-0.018893211454804472
+tfidf__concerns and,-0.01893279696889008
+tfidf__about algorithmic,-0.01942111190597904
+tfidf__about cybersecurity,-0.019819576409057633
+tfidf__economic,-0.019936446749243664
+tfidf__economic inequality,-0.019936446749243664
+tfidf__trends,-0.019936446749243664
+tfidf__inequality trends,-0.019936446749243664
+tfidf__inequality,-0.019936446749243664
+tfidf__productivity and,-0.020010505905042573
+tfidf__that water,-0.02016209354162192
+tfidf__regulation have,-0.020347198754271052
+tfidf__hiring for,-0.020436259674828223
+tfidf__loss through,-0.020797297310511675
+tfidf__examines biodiversity,-0.020797297310511675
+tfidf__on remote,-0.020881786560955264
+tfidf__hiring the,-0.021054838628135154
+tfidf__breaking student,-0.021588184235951588
+tfidf__crisis sources,-0.021588184235951588
+tfidf__areas through,-0.02386060842198168
+tfidf__examines digital,-0.02386060842198168
+tfidf__examines student,-0.024983129588864374
+tfidf__crisis through,-0.024983129588864374
+tfidf__crisis and,-0.02508523496691443
+tfidf__that digital,-0.025452777610344937
+tfidf__on food,-0.02598901693982208
+tfidf__misinformation and,-0.026114378133711695
+tfidf__investment through,-0.026241930762730587
+tfidf__examines public,-0.026241930762730587
+tfidf__about mental,-0.026386327515883934
+tfidf__shortages the,-0.02643810288222222
+tfidf__safety through,-0.026497495043730977
+tfidf__examines autonomous,-0.026497495043730977
+tfidf__campaigns for,-0.0270585847205895
+tfidf__safety researchers,-0.02744048630614591
+tfidf__ethics the,-0.027736647796318174
+tfidf__policy researchers,-0.02798264980822567
+tfidf__rights through,-0.029240483105879997
+tfidf__examines gig,-0.029240483105879997
+tfidf__debates the,-0.029678432937878002
+tfidf__legislation the,-0.030153542028897303
+tfidf__trends researchers,-0.030179945420352728
+tfidf__that economic,-0.0303137131117032
+tfidf__trends has,-0.030460653683587937
+tfidf__hiring it,-0.03047294990951959
+tfidf__between gene,-0.03066515120867285
+tfidf__energy adoption,-0.030819822200740095
+tfidf__adoption,-0.030819822200740095
+tfidf__renewable energy,-0.030819822200740095
+tfidf__renewable,-0.030819822200740095
+tfidf__misinformation through,-0.03142061344247557
+tfidf__examines social,-0.03142061344247557
+tfidf__milestones through,-0.03163083156409489
+tfidf__examines space,-0.03163083156409489
+tfidf__legislation sources,-0.031983224291581326
+tfidf__breaking data,-0.031983224291581326
+tfidf__volatility has,-0.0326006834009668
+tfidf__disruptions sources,-0.03262469189718768
+tfidf__breaking supply,-0.03262469189718768
+tfidf__gets worse,-0.03262797198325093
+tfidf__time,-0.03262797198325093
+tfidf__but every,-0.03262797198325093
+tfidf__conversations,-0.03262797198325093
+tfidf__need better,-0.03262797198325093
+tfidf__time it,-0.03262797198325093
+tfidf__gets,-0.03262797198325093
+tfidf__conversations about,-0.03262797198325093
+tfidf__we need,-0.03262797198325093
+tfidf__better,-0.03262797198325093
+tfidf__better conversations,-0.03262797198325093
+tfidf__worse we,-0.03262797198325093
+tfidf__idk why,-0.03262797198325093
+tfidf__keeps,-0.03262797198325093
+tfidf__up,-0.03262797198325093
+tfidf__up but,-0.03262797198325093
+tfidf__does,-0.03262797198325093
+tfidf__does the,-0.03262797198325093
+tfidf__idk,-0.03262797198325093
+tfidf__every,-0.03262797198325093
+tfidf__discourse gets,-0.03262797198325093
+tfidf__coming up,-0.03262797198325093
+tfidf__fr,-0.03262797198325093
+tfidf__coming,-0.03262797198325093
+tfidf__keeps coming,-0.03262797198325093
+tfidf__it does,-0.03262797198325093
+tfidf__every time,-0.03262797198325093
+tfidf__the discourse,-0.03262797198325093
+tfidf__this fr,-0.03262797198325093
+tfidf__worse,-0.03262797198325093
+tfidf__about this,-0.03262797198325093
+tfidf__examines algorithmic,-0.03280876843726752
+tfidf__hiring through,-0.03280876843726752
+tfidf__policy the,-0.03295638612234691
+tfidf__between gig,-0.03337314872966285
+tfidf__breakthroughs through,-0.03355247037794527
+tfidf__examines genomic,-0.03355247037794527
+tfidf__hiring and,-0.03368068358690793
+tfidf__legislation researchers,-0.03429458475819569
+tfidf__productivity through,-0.0343777587291699
+tfidf__examines remote,-0.0343777587291699
+tfidf__nations has,-0.03440439355142377
+tfidf__why,-0.034418964594006
+tfidf__examines supply,-0.034466977274999214
+tfidf__disruptions through,-0.034466977274999214
+tfidf__debates researchers,-0.034942842775823074
+tfidf__between biodiversity,-0.03624251586331887
+tfidf__nations it,-0.036829295027744534
+tfidf__nations the,-0.03708830804939795
+tfidf__examines renewable,-0.0372884186734658
+tfidf__adoption through,-0.0372884186734658
+tfidf__that urban,-0.037429617837358195
+tfidf__crisis researchers,-0.03774282857545207
+tfidf__examines water,-0.037853088353830514
+tfidf__scarcity through,-0.037853088353830514
+tfidf__between algorithmic,-0.0379234125697783
+tfidf__breaking aging,-0.03801314453434424
+tfidf__investment researchers,-0.03842861123469608
+tfidf__volatility and,-0.038437445456825405
+tfidf__adoption researchers,-0.03865521403022239
+tfidf__resistance through,-0.03888189279915623
+tfidf__examines antibiotic,-0.03888189279915623
+tfidf__strategies through,-0.039722276603238425
+tfidf__examines climate,-0.039722276603238425
+tfidf__regulation and,-0.04055688901629637
+tfidf__trends and,-0.04064846684270136
+tfidf__ethics it,-0.041153308180641376
+tfidf__loss researchers,-0.041328981695510164
+tfidf__between education,-0.041519478645052406
+tfidf__that autonomous,-0.041622228271080884
+tfidf__that gene,-0.041647607981154376
+tfidf__that biodiversity,-0.04189435697855721
+tfidf__about artificial,-0.043271103873230334
+tfidf__between student,-0.04376635027409902
+tfidf__loss it,-0.043854040306655816
+tfidf__productivity has,-0.04451287430058491
+tfidf__safety and,-0.04456438235114433
+tfidf__about cryptocurrency,-0.04542060545922882
+tfidf__campaigns researchers,-0.0454451385116059
+tfidf__areas have,-0.045765538739910995
+tfidf__nations researchers,-0.0458870063881414
+tfidf__regulation for,-0.04610717871220598
+tfidf__on supply,-0.046123696944754905
+tfidf__breakthroughs and,-0.04615612542724716
+tfidf__breakthroughs the,-0.04622255593551029
+tfidf__breaking education,-0.04631598763643888
+tfidf__debates sources,-0.04631598763643888
+tfidf__volatility for,-0.04688585526028446
+tfidf__that student,-0.04722552771995179
+tfidf__misinformation researchers,-0.04780301321214884
+tfidf__between autonomous,-0.048653461839562935
+tfidf__resistance,-0.04988868622505934
+tfidf__antibiotic resistance,-0.04988868622505934
+tfidf__antibiotic,-0.04988868622505934
+tfidf__that renewable,-0.0501492712187942
+tfidf__suggest the,-0.05161273210935396
+tfidf__productivity it,-0.0525241070067985
+tfidf__between economic,-0.0525534197760792
+tfidf__that public,-0.053036313780847014
+tfidf__disruptions the,-0.05503933104654304
+tfidf__concerns through,-0.05565784978490508
+tfidf__examines election,-0.05565784978490508
+tfidf__that nuclear,-0.05572623161642355
+tfidf__milestones has,-0.05629436682501951
+tfidf__that cryptocurrency,-0.057781310703046734
+tfidf__that mental,-0.057829598260729045
+tfidf__concerns researchers,-0.0579687791754662
+tfidf__adoption and,-0.058111972515466424
+tfidf__responding,-0.05836753341761332
+tfidf__under,-0.05836753341761332
+tfidf__emergency services,-0.05836753341761332
+tfidf__emergency,-0.05836753341761332
+tfidf__alerted at,-0.05836753341761332
+tfidf__investigation residents,-0.05836753341761332
+tfidf__responding to,-0.05836753341761332
+tfidf__am,-0.05836753341761332
+tfidf__am the,-0.05836753341761332
+tfidf__are responding,-0.05836753341761332
+tfidf__under investigation,-0.05836753341761332
+tfidf__local,-0.05836753341761332
+tfidf__to reports,-0.05836753341761332
+tfidf__to remain,-0.05836753341761332
+tfidf__incident is,-0.05836753341761332
+tfidf__approximately am,-0.05836753341761332
+tfidf__approximately,-0.05836753341761332
+tfidf__services,-0.05836753341761332
+tfidf__services were,-0.05836753341761332
+tfidf__is under,-0.05836753341761332
+tfidf__residents in,-0.05836753341761332
+tfidf__residents,-0.05836753341761332
+tfidf__were alerted,-0.05836753341761332
+tfidf__been asked,-0.05836753341761332
+tfidf__incident,-0.05836753341761332
+tfidf__indoors,-0.05836753341761332
+tfidf__indoors as,-0.05836753341761332
+tfidf__in nearby,-0.05836753341761332
+tfidf__as precaution,-0.05836753341761332
+tfidf__asked,-0.05836753341761332
+tfidf__asked to,-0.05836753341761332
+tfidf__remain indoors,-0.05836753341761332
+tfidf__nearby areas,-0.05836753341761332
+tfidf__precaution,-0.05836753341761332
+tfidf__nearby,-0.05836753341761332
+tfidf__at approximately,-0.05836753341761332
+tfidf__authorities,-0.05836753341761332
+tfidf__authorities are,-0.05836753341761332
+tfidf__reports,-0.05836753341761332
+tfidf__alerted,-0.05836753341761332
+tfidf__reports that,-0.05836753341761332
+tfidf__the incident,-0.05836753341761332
+tfidf__local authorities,-0.05836753341761332
+tfidf__that data,-0.058849858458403466
+tfidf__nations through,-0.05889713371394798
+tfidf__examines food,-0.05889713371394798
+tfidf__that education,-0.05913596984823379
+tfidf__hiring researchers,-0.05925274308820921
+tfidf__volatility the,-0.05993046971121244
+tfidf__milestones researchers,-0.06029029096380149
+tfidf__misinformation the,-0.06094519725667459
+tfidf__challenges through,-0.06152042440399513
+tfidf__examines aging,-0.06152042440399513
+tfidf__adoption it,-0.062162832987202
+tfidf__infrastructure the,-0.06219893068884944
+tfidf__breaking election,-0.0625245515326849
+tfidf__concerns sources,-0.0625245515326849
+tfidf__disruptions researchers,-0.06261385625437839
+tfidf__breaking mental,-0.06432084443162045
+tfidf__campaigns sources,-0.06432084443162045
+tfidf__investment it,-0.06436530265024257
+tfidf__on election,-0.06452471957457576
+tfidf__between genomic,-0.06457124914049082
+tfidf__challenges the,-0.06526225075651418
+tfidf__campaigns it,-0.06562475333416797
+tfidf__disruptions it,-0.06614091795050502
+tfidf__on urban,-0.06615793528357825
+tfidf__safety sources,-0.06647962855421764
+tfidf__breaking autonomous,-0.06647962855421764
+tfidf__milestones sources,-0.06656703554148186
+tfidf__breaking space,-0.06656703554148186
+tfidf__breakthroughs researchers,-0.06669749572780431
+tfidf__debates it,-0.06680377289957158
+tfidf__strategies researchers,-0.06948609063731198
+tfidf__misinformation it,-0.07045547083528515
+tfidf__point,-0.07078740746683836
+tfidf__breaking cryptocurrency,-0.07098170656470228
+tfidf__volatility sources,-0.07098170656470228
+tfidf__that vaccine,-0.07281473507941442
+tfidf__milestones it,-0.07324306299117975
+tfidf__that algorithmic,-0.07432285447874164
+tfidf__that food,-0.07453835884322105
+tfidf__examines mental,-0.07508209713046307
+tfidf__campaigns through,-0.07508209713046307
+tfidf__concerns the,-0.07547902162561687
+tfidf__examines cryptocurrency,-0.076837942989126
+tfidf__volatility through,-0.076837942989126
+tfidf__on economic,-0.07720710892336832
+tfidf__that remote,-0.07732067096617379
+tfidf__productivity the,-0.0790096901667335
+tfidf__regulation the,-0.08046756285206183
+tfidf__resistance researchers,-0.0805999059407646
+tfidf__infrastructure through,-0.08228522138685078
+tfidf__examines cybersecurity,-0.08228522138685078
+tfidf__campaigns and,-0.08245170159790255
+tfidf__breakthroughs has,-0.08488362278680278
+tfidf__between mental,-0.08500336509143151
+tfidf__literature,-0.08610106908427191
+tfidf__strategies the,-0.08655693836741399
+tfidf__regulation has,-0.08671658152990654
+tfidf__between renewable,-0.0873147455933463
+tfidf__on space,-0.08867542915268732
+tfidf__resistance and,-0.08975164011171682
+tfidf__concerns it,-0.09139231873415223
+tfidf__but,-0.09279859581481034
+tfidf__that antibiotic,-0.09333720193964332
+tfidf__trends it,-0.09654127639120219
+tfidf__infrastructure researchers,-0.09660012634065339
+tfidf__that social,-0.09740031436477573
+tfidf__that aging,-0.09820114097582358
+tfidf__researchers,-0.10033648041759165
+tfidf__that genomic,-0.10216291295612782
+tfidf__infrastructure and,-0.10232076585599781
+tfidf__that supply,-0.10607699385203015
+tfidf__between cybersecurity,-0.10637056706282007
+tfidf__challenges researchers,-0.10755534682032379
+tfidf__frameworks are,-0.1083615629817834
+tfidf__drawing on,-0.1083615629817834
+tfidf__empirical evidence,-0.1083615629817834
+tfidf__that existing,-0.1083615629817834
+tfidf__drawing,-0.1083615629817834
+tfidf__between antibiotic,-0.10855381631943174
+tfidf__on renewable,-0.10912401899711799
+tfidf__health awareness,-0.10926085744288226
+tfidf__mental health,-0.10926085744288226
+tfidf__mental,-0.10926085744288226
+tfidf__awareness,-0.10926085744288226
+tfidf__campaigns,-0.10926085744288226
+tfidf__awareness campaigns,-0.10926085744288226
+tfidf__health,-0.10926085744288226
+tfidf__on cryptocurrency,-0.11486922146510811
+tfidf__that election,-0.11733754696688001
+tfidf__regulation researchers,-0.11860215067850159
+tfidf__milestones the,-0.12377045289386293
+tfidf__breakthroughs sources,-0.13130493876543978
+tfidf__breaking genomic,-0.13130493876543978
+tfidf__wednesday,-0.13150300006545212
+tfidf__on wednesday,-0.13150300006545212
+tfidf__wednesday that,-0.13150300006545212
+tfidf__strategies and,-0.13497274592810785
+tfidf__that cybersecurity,-0.13840190469826483
+tfidf__breaking vaccine,-0.13919235436993888
+tfidf__that climate,-0.13961358695598503
+tfidf__debates,-0.1432285187032697
+tfidf__strategies it,-0.14759063293154606
+tfidf__on climate,-0.14759063293154606
+tfidf__paper,-0.14975440855524744
+tfidf__this paper,-0.14975440855524744
+tfidf__election integrity,-0.15065183091577272
+tfidf__integrity,-0.15065183091577272
+tfidf__election,-0.15065183091577272
+tfidf__integrity concerns,-0.15065183091577272
+tfidf__on cybersecurity,-0.15493808099486797
+tfidf__challenges it,-0.15513331939525168
+tfidf__between climate,-0.15588218395857503
+tfidf__on vaccine,-0.15603431891642738
+tfidf__that space,-0.1627881313845487
+tfidf__challenges sources,-0.16581876881820765
+tfidf__on monday,-0.16808316994794148
+tfidf__monday,-0.16808316994794148
+tfidf__monday that,-0.16808316994794148
+tfidf__milestones,-0.16844344398516747
+tfidf__exploration,-0.16844344398516747
+tfidf__exploration milestones,-0.16844344398516747
+tfidf__space exploration,-0.16844344398516747
+tfidf__it,-0.17071325112900917
+tfidf__that artificial,-0.17850080901311635
+tfidf__on friday,-0.18050816653658355
+tfidf__friday that,-0.18050816653658355
+tfidf__friday,-0.18050816653658355
+struct__ttr,-0.18649253001018098
+tfidf__debates and,-0.19184497451304403
+tfidf__the theoretical,-0.194653788546481
+tfidf__theoretical underpinnings,-0.194653788546481
+tfidf__schools of,-0.194653788546481
+tfidf__grown,-0.194653788546481
+tfidf__schools,-0.194653788546481
+tfidf__grown into,-0.194653788546481
+tfidf__this review,-0.194653788546481
+tfidf__thought,-0.194653788546481
+tfidf__thought this,-0.194653788546481
+tfidf__further empirical,-0.194653788546481
+tfidf__decades what,-0.194653788546481
+tfidf__niche area,-0.194653788546481
+tfidf__identifies gaps,-0.194653788546481
+tfidf__has grown,-0.194653788546481
+tfidf__decades,-0.194653788546481
+tfidf__niche,-0.194653788546481
+tfidf__field with,-0.194653788546481
+tfidf__have evolved,-0.194653788546481
+tfidf__into robust,-0.194653788546481
+tfidf__synthesizes,-0.194653788546481
+tfidf__empirical investigation,-0.194653788546481
+tfidf__evolved,-0.194653788546481
+tfidf__synthesizes key,-0.194653788546481
+tfidf__evolved considerably,-0.194653788546481
+tfidf__that warrant,-0.194653788546481
+tfidf__key debates,-0.194653788546481
+tfidf__inquiry,-0.194653788546481
+tfidf__review synthesizes,-0.194653788546481
+tfidf__area of,-0.194653788546481
+tfidf__competing schools,-0.194653788546481
+tfidf__review,-0.194653788546481
+tfidf__as niche,-0.194653788546481
+tfidf__robust,-0.194653788546481
+tfidf__robust field,-0.194653788546481
+tfidf__with competing,-0.194653788546481
+tfidf__considerably,-0.194653788546481
+tfidf__two decades,-0.194653788546481
+tfidf__considerably over,-0.194653788546481
+tfidf__underpinnings,-0.194653788546481
+tfidf__underpinnings of,-0.194653788546481
+tfidf__past two,-0.194653788546481
+tfidf__area,-0.194653788546481
+tfidf__what began,-0.194653788546481
+tfidf__and identifies,-0.194653788546481
+tfidf__began,-0.194653788546481
+tfidf__began as,-0.194653788546481
+tfidf__inquiry has,-0.194653788546481
+tfidf__warrant,-0.194653788546481
+tfidf__warrant further,-0.194653788546481
+tfidf__of thought,-0.194653788546481
+tfidf__of inquiry,-0.194653788546481
+tfidf__infrastructure it,-0.1959026095923263
+tfidf__regulation sources,-0.2021104641675196
+tfidf__breaking artificial,-0.2021104641675196
+tfidf__distribution,-0.20623740471118934
+tfidf__vaccine,-0.20623740471118934
+tfidf__vaccine distribution,-0.20623740471118934
+tfidf__distribution challenges,-0.20623740471118934
+tfidf__thursday that,-0.21296967205593134
+tfidf__thursday,-0.21296967205593134
+tfidf__on thursday,-0.21296967205593134
+tfidf__regulation it,-0.21668721139995414
+tfidf__market volatility,-0.22616099767288955
+tfidf__volatility,-0.22616099767288955
+tfidf__market,-0.22616099767288955
+tfidf__cryptocurrency market,-0.22616099767288955
+tfidf__cryptocurrency,-0.22616099767288955
+tfidf__on tuesday,-0.23271883270920568
+tfidf__tuesday,-0.23271883270920568
+tfidf__tuesday that,-0.23271883270920568
+tfidf__on artificial,-0.23781693260440578
+tfidf__response,-0.2392072477979127
+tfidf__adaptation strategies,-0.25538685807439926
+tfidf__strategies,-0.25538685807439926
+tfidf__climate change,-0.25538685807439926
+tfidf__adaptation,-0.25538685807439926
+tfidf__change,-0.25538685807439926
+tfidf__climate,-0.25538685807439926
+tfidf__change adaptation,-0.25538685807439926
+tfidf__like,-0.2560327124386708
+tfidf__research,-0.2580290841041844
+tfidf__breakthroughs it,-0.259932474716514
+tfidf__this,-0.26920517624735857
+tfidf__on genomic,-0.27107303098333835
+tfidf__remains,-0.2715938514517674
+tfidf__through,-0.27187274595397776
+tfidf__data,-0.2845311075971271
+tfidf__mixed,-0.2937824799495083
+tfidf__because feel,-0.29811417237983606
+tfidf__talk,-0.29811417237983606
+tfidf__bigger than,-0.29811417237983606
+tfidf__here this,-0.29811417237983606
+tfidf__bigger,-0.29811417237983606
+tfidf__is bigger,-0.29811417237983606
+tfidf__realize,-0.29811417237983606
+tfidf__we talk,-0.29811417237983606
+tfidf__are completely,-0.29811417237983606
+tfidf__because,-0.29811417237983606
+tfidf__talk about,-0.29811417237983606
+tfidf__feel like,-0.29811417237983606
+tfidf__for sec,-0.29811417237983606
+tfidf__people are,-0.29811417237983606
+tfidf__completely missing,-0.29811417237983606
+tfidf__completely,-0.29811417237983606
+tfidf__most realize,-0.29811417237983606
+tfidf__than most,-0.29811417237983606
+tfidf__missing the,-0.29811417237983606
+tfidf__missing,-0.29811417237983606
+tfidf__can we,-0.29811417237983606
+tfidf__the point,-0.29811417237983606
+tfidf__can,-0.29811417237983606
+tfidf__feel,-0.29811417237983606
+tfidf__sec because,-0.29811417237983606
+tfidf__sec,-0.29811417237983606
+tfidf__this is,-0.29811417237983606
+tfidf__like people,-0.29811417237983606
+tfidf__point here,-0.29811417237983606
+tfidf__most,-0.29811417237983606
+tfidf__released,-0.3198998251123305
+tfidf__to infrastructure,-0.3227477807460976
+tfidf__infrastructure,-0.3227477807460976
+tfidf__cybersecurity,-0.3227477807460976
+tfidf__cybersecurity threats,-0.3227477807460976
+tfidf__threats to,-0.3227477807460976
+tfidf__threats,-0.3227477807460976
+tfidf__implications,-0.3410043722748067
+tfidf__genomic research,-0.3500125275644232
+tfidf__genomic,-0.3500125275644232
+tfidf__breakthroughs,-0.3500125275644232
+tfidf__research breakthroughs,-0.3500125275644232
+tfidf__findings,-0.35593177535226433
+tfidf__with,-0.3803525516831208
+tfidf__came,-0.387197317387505
+struct__has_emoji,-0.3919210115280818
+tfidf__your,-0.4148035343606282
+tfidf__artificial,-0.4228700478722368
+tfidf__artificial intelligence,-0.4228700478722368
+tfidf__regulation,-0.4228700478722368
+tfidf__intelligence,-0.4228700478722368
+tfidf__intelligence regulation,-0.4228700478722368
+tfidf__the situation,-0.42710878890283877
+tfidf__situation,-0.42710878890283877
+tfidf__population,-0.4381066689732582
+tfidf__aging population,-0.4381066689732582
+tfidf__population challenges,-0.4381066689732582
+tfidf__aging,-0.4381066689732582
+tfidf__structural,-0.4861944165798684
+tfidf__recent,-0.4861944165798684
+tfidf__public,-0.4892562835985324
+tfidf__and,-0.4904281058609785
+tfidf__policy,-0.5223822017660731
+tfidf__in,-0.5280733875227296
+tfidf__investigation,-0.5294667870036732
+tfidf__has,-0.5323381807984672
+tfidf__over,-0.5416553053127411
+tfidf__more,-0.5451910731096579
+tfidf__suggest,-0.5461518326072191
+tfidf__accounts,-0.571930006768477
+tfidf__factors previously,-0.571930006768477
+tfidf__contextual variability,-0.571930006768477
+tfidf__existing frameworks,-0.571930006768477
+tfidf__accounts for,-0.571930006768477
+tfidf__findings suggest,-0.571930006768477
+tfidf__factors,-0.571930006768477
+tfidf__we propose,-0.571930006768477
+tfidf__lens drawing,-0.571930006768477
+tfidf__explain observed,-0.571930006768477
+tfidf__model,-0.571930006768477
+tfidf__explain,-0.571930006768477
+tfidf__lens,-0.571930006768477
+tfidf__phenomena we,-0.571930006768477
+tfidf__that accounts,-0.571930006768477
+tfidf__phenomena,-0.571930006768477
+tfidf__critical,-0.571930006768477
+tfidf__model that,-0.571930006768477
+tfidf__examines,-0.571930006768477
+tfidf__to explain,-0.571930006768477
+tfidf__on empirical,-0.571930006768477
+tfidf__critical lens,-0.571930006768477
+tfidf__through critical,-0.571930006768477
+tfidf__observed phenomena,-0.571930006768477
+tfidf__observed,-0.571930006768477
+tfidf__over two,-0.571930006768477
+tfidf__revised model,-0.571930006768477
+tfidf__revised,-0.571930006768477
+tfidf__two year,-0.571930006768477
+tfidf__overlooked,-0.571930006768477
+tfidf__overlooked in,-0.571930006768477
+tfidf__paper examines,-0.571930006768477
+tfidf__period,-0.571930006768477
+tfidf__period the,-0.571930006768477
+tfidf__evidence gathered,-0.571930006768477
+tfidf__for contextual,-0.571930006768477
+tfidf__variability,-0.571930006768477
+tfidf__variability and,-0.571930006768477
+tfidf__previously,-0.571930006768477
+tfidf__contextual,-0.571930006768477
+tfidf__previously overlooked,-0.571930006768477
+tfidf__year period,-0.571930006768477
+tfidf__propose revised,-0.571930006768477
+tfidf__and systemic,-0.571930006768477
+tfidf__systemic,-0.571930006768477
+tfidf__systemic factors,-0.571930006768477
+tfidf__suggest that,-0.571930006768477
+tfidf__are insufficient,-0.571930006768477
+tfidf__gathered,-0.571930006768477
+tfidf__gathered over,-0.571930006768477
+tfidf__insufficient to,-0.571930006768477
+tfidf__insufficient,-0.571930006768477
+tfidf__year,-0.571930006768477
+tfidf__propose,-0.571930006768477
+tfidf__results,-0.5757777174887815
+tfidf__into,-0.5781344499550719
+tfidf__for,-0.581009920069404
+tfidf__two,-0.6028898114126818
+tfidf__challenges has,-0.6349409791933024
+tfidf__were,-0.6356170647924019
+tfidf__have been,-0.6356170647924019
+tfidf__overdue,-0.6722021546144071
+tfidf__argue,-0.6722021546144071
+tfidf__overdue public,-0.6722021546144071
+tfidf__of speculation,-0.6722021546144071
+tfidf__along,-0.6722021546144071
+tfidf__divided along,-0.6722021546144071
+tfidf__the announcement,-0.6722021546144071
+tfidf__announcement came,-0.6722021546144071
+tfidf__announcement,-0.6722021546144071
+tfidf__supporters say,-0.6722021546144071
+tfidf__supporters,-0.6722021546144071
+tfidf__divided,-0.6722021546144071
+tfidf__along predictable,-0.6722021546144071
+tfidf__response has,-0.6722021546144071
+tfidf__move is,-0.6722021546144071
+tfidf__move,-0.6722021546144071
+tfidf__speculation critics,-0.6722021546144071
+tfidf__speculation,-0.6722021546144071
+tfidf__the move,-0.6722021546144071
+tfidf__after weeks,-0.6722021546144071
+tfidf__came after,-0.6722021546144071
+tfidf__argue the,-0.6722021546144071
+tfidf__critics argue,-0.6722021546144071
+tfidf__predictable,-0.6722021546144071
+tfidf__public response,-0.6722021546144071
+tfidf__premature,-0.6722021546144071
+tfidf__while supporters,-0.6722021546144071
+tfidf__premature while,-0.6722021546144071
+tfidf__officials confirmed,-0.6722021546144071
+tfidf__critics,-0.6722021546144071
+tfidf__confirmed,-0.6722021546144071
+tfidf__after,-0.6722021546144071
+tfidf__weeks,-0.6722021546144071
+tfidf__weeks of,-0.6722021546144071
+tfidf__it was,-0.6722021546144071
+tfidf__confirmed on,-0.6722021546144071
+tfidf__been divided,-0.6722021546144071
+tfidf__officials,-0.6722021546144071
+tfidf__predictable lines,-0.6722021546144071
+tfidf__lines,-0.6722021546144071
+tfidf__long overdue,-0.6722021546144071
+tfidf__say,-0.6722021546144071
+tfidf__was,-0.6722021546144071
+tfidf__was long,-0.6722021546144071
+tfidf__say it,-0.6722021546144071
+tfidf__is premature,-0.6722021546144071
+tfidf__the findings,-0.6815165485109307
+tfidf__over the,-0.7021438762392764
+tfidf__past,-0.7021438762392764
+tfidf__the past,-0.7021438762392764
+tfidf__field,-0.715441291432617
+tfidf__reveals,-0.7162659858728733
+tfidf__today reveals,-0.7162659858728733
+tfidf__said,-0.7162659858728733
+tfidf__compelling,-0.7162659858728733
+tfidf__community the,-0.7162659858728733
+tfidf__scientific community,-0.7162659858728733
+tfidf__community,-0.7162659858728733
+tfidf__scientific,-0.7162659858728733
+tfidf__on the,-0.7162659858728733
+tfidf__said the,-0.7162659858728733
+tfidf__reveals that,-0.7162659858728733
+tfidf__collaborated,-0.7162659858728733
+tfidf__results were,-0.7162659858728733
+tfidf__collaborated on,-0.7162659858728733
+tfidf__which,-0.7162659858728733
+tfidf__the scientific,-0.7162659858728733
+tfidf__several universities,-0.7162659858728733
+tfidf__researcher said,-0.7162659858728733
+tfidf__published today,-0.7162659858728733
+tfidf__unexpected,-0.7162659858728733
+tfidf__published,-0.7162659858728733
+tfidf__met with,-0.7162659858728733
+tfidf__met,-0.7162659858728733
+tfidf__researcher,-0.7162659858728733
+tfidf__from the,-0.7162659858728733
+tfidf__from several,-0.7162659858728733
+tfidf__findings which,-0.7162659858728733
+tfidf__which have,-0.7162659858728733
+tfidf__lead researcher,-0.7162659858728733
+tfidf__lead,-0.7162659858728733
+tfidf__were unexpected,-0.7162659858728733
+tfidf__been met,-0.7162659858728733
+tfidf__researchers from,-0.7162659858728733
+tfidf__mixed reactions,-0.7162659858728733
+tfidf__reactions,-0.7162659858728733
+tfidf__unexpected but,-0.7162659858728733
+tfidf__the results,-0.7162659858728733
+tfidf__but compelling,-0.7162659858728733
+tfidf__new study,-0.7162659858728733
+tfidf__reactions from,-0.7162659858728733
+tfidf__universities collaborated,-0.7162659858728733
+tfidf__universities,-0.7162659858728733
+tfidf__the lead,-0.7162659858728733
+tfidf__study published,-0.7162659858728733
+tfidf__with mixed,-0.7162659858728733
+tfidf__rapidly,-0.7204066842198155
+tfidf__released though,-0.7204066842198155
+tfidf__press,-0.7204066842198155
+tfidf__press conference,-0.7204066842198155
+tfidf__been released,-0.7204066842198155
+tfidf__past 48,-0.7204066842198155
+tfidf__breaking,-0.7204066842198155
+tfidf__conference is,-0.7204066842198155
+tfidf__conference,-0.7204066842198155
+tfidf__close to,-0.7204066842198155
+tfidf__reporters,-0.7204066842198155
+tfidf__48,-0.7204066842198155
+tfidf__told,-0.7204066842198155
+tfidf__48 hours,-0.7204066842198155
+tfidf__rapidly over,-0.7204066842198155
+tfidf__told reporters,-0.7204066842198155
+tfidf__close,-0.7204066842198155
+tfidf__reporters the,-0.7204066842198155
+tfidf__statement has,-0.7204066842198155
+tfidf__matter told,-0.7204066842198155
+tfidf__later today,-0.7204066842198155
+tfidf__sources close,-0.7204066842198155
+tfidf__developed,-0.7204066842198155
+tfidf__the matter,-0.7204066842198155
+tfidf__developed rapidly,-0.7204066842198155
+tfidf__expected,-0.7204066842198155
+tfidf__expected later,-0.7204066842198155
+tfidf__is expected,-0.7204066842198155
+tfidf__hours,-0.7204066842198155
+tfidf__hours no,-0.7204066842198155
+tfidf__matter,-0.7204066842198155
+tfidf__later,-0.7204066842198155
+tfidf__situation developed,-0.7204066842198155
+tfidf__sources,-0.7204066842198155
+tfidf__no,-0.7204066842198155
+tfidf__statement,-0.7204066842198155
+tfidf__official statement,-0.7204066842198155
+tfidf__though press,-0.7204066842198155
+tfidf__no official,-0.7204066842198155
+tfidf__policy and,-0.7259181214198516
+tfidf__article challenges,-0.727664041114258
+tfidf__neglecting underlying,-0.727664041114258
+tfidf__assumptions,-0.727664041114258
+tfidf__assumptions and,-0.727664041114258
+tfidf__neglecting,-0.727664041114258
+tfidf__dominant assumptions,-0.727664041114258
+tfidf__calls for,-0.727664041114258
+tfidf__are discussed,-0.727664041114258
+tfidf__calls,-0.727664041114258
+tfidf__article,-0.727664041114258
+tfidf__the concluding,-0.727664041114258
+tfidf__perspectives,-0.727664041114258
+tfidf__more nuanced,-0.727664041114258
+tfidf__practice are,-0.727664041114258
+tfidf__practice,-0.727664041114258
+tfidf__level manifestations,-0.727664041114258
+tfidf__focused,-0.727664041114258
+tfidf__focused on,-0.727664041114258
+tfidf__that integrates,-0.727664041114258
+tfidf__manifestations,-0.727664041114258
+tfidf__manifestations while,-0.727664041114258
+tfidf__for more,-0.727664041114258
+tfidf__for policy,-0.727664041114258
+tfidf__largely focused,-0.727664041114258
+tfidf__largely,-0.727664041114258
+tfidf__surface,-0.727664041114258
+tfidf__perspectives implications,-0.727664041114258
+tfidf__while neglecting,-0.727664041114258
+tfidf__surface level,-0.727664041114258
+tfidf__approach that,-0.727664041114258
+tfidf__challenges dominant,-0.727664041114258
+tfidf__interdisciplinary,-0.727664041114258
+tfidf__has largely,-0.727664041114258
+tfidf__determinants this,-0.727664041114258
+tfidf__nuanced approach,-0.727664041114258
+tfidf__determinants,-0.727664041114258
+tfidf__structural determinants,-0.727664041114258
+tfidf__interdisciplinary perspectives,-0.727664041114258
+tfidf__implications for,-0.727664041114258
+tfidf__scholarship on,-0.727664041114258
+tfidf__concluding,-0.727664041114258
+tfidf__concluding section,-0.727664041114258
+tfidf__integrates interdisciplinary,-0.727664041114258
+tfidf__recent scholarship,-0.727664041114258
+tfidf__on surface,-0.727664041114258
+tfidf__integrates,-0.727664041114258
+tfidf__scholarship,-0.727664041114258
+tfidf__and calls,-0.727664041114258
+tfidf__level,-0.727664041114258
+tfidf__underlying structural,-0.727664041114258
+tfidf__and practice,-0.727664041114258
+tfidf__underlying,-0.727664041114258
+tfidf__section,-0.727664041114258
+tfidf__this article,-0.727664041114258
+tfidf__nuanced,-0.727664041114258
+tfidf__dominant,-0.727664041114258
+tfidf__discussed in,-0.727664041114258
+tfidf__discussed,-0.727664041114258
+tfidf__than,-0.734840366366907
+tfidf__while,-0.7500265382091955
+tfidf__200,-0.7502338770224807
+tfidf__growing,-0.7502338770224807
+tfidf__geographic regions,-0.7502338770224807
+tfidf__geographic,-0.7502338770224807
+tfidf__200 cases,-0.7502338770224807
+tfidf__regions,-0.7502338770224807
+tfidf__growing interest,-0.7502338770224807
+tfidf__regions results,-0.7502338770224807
+tfidf__relationship between,-0.7502338770224807
+tfidf__interest,-0.7502338770224807
+tfidf__alone,-0.7502338770224807
+tfidf__be established,-0.7502338770224807
+tfidf__interest in,-0.7502338770224807
+tfidf__analyzing dataset,-0.7502338770224807
+tfidf__study contributes,-0.7502338770224807
+tfidf__and broader,-0.7502338770224807
+tfidf__across five,-0.7502338770224807
+tfidf__remains poorly,-0.7502338770224807
+tfidf__societal,-0.7502338770224807
+tfidf__from observational,-0.7502338770224807
+tfidf__societal outcomes,-0.7502338770224807
+tfidf__relationship,-0.7502338770224807
+tfidf__analyzing,-0.7502338770224807
+tfidf__contributes,-0.7502338770224807
+tfidf__five geographic,-0.7502338770224807
+tfidf__despite growing,-0.7502338770224807
+tfidf__cases,-0.7502338770224807
+tfidf__the relationship,-0.7502338770224807
+tfidf__understood despite,-0.7502338770224807
+tfidf__understood,-0.7502338770224807
+tfidf__five,-0.7502338770224807
+tfidf__causality,-0.7502338770224807
+tfidf__causality cannot,-0.7502338770224807
+tfidf__though causality,-0.7502338770224807
+tfidf__observational,-0.7502338770224807
+tfidf__despite,-0.7502338770224807
+tfidf__cannot,-0.7502338770224807
+tfidf__observational data,-0.7502338770224807
+tfidf__of 200,-0.7502338770224807
+tfidf__dataset of,-0.7502338770224807
+tfidf__outcomes remains,-0.7502338770224807
+tfidf__outcomes,-0.7502338770224807
+tfidf__dataset,-0.7502338770224807
+tfidf__data alone,-0.7502338770224807
+tfidf__correlations though,-0.7502338770224807
+tfidf__correlations,-0.7502338770224807
+tfidf__cannot be,-0.7502338770224807
+tfidf__cases across,-0.7502338770224807
+tfidf__poorly,-0.7502338770224807
+tfidf__established,-0.7502338770224807
+tfidf__broader,-0.7502338770224807
+tfidf__significant correlations,-0.7502338770224807
+tfidf__by,-0.7502338770224807
+tfidf__by analyzing,-0.7502338770224807
+tfidf__the field,-0.7502338770224807
+tfidf__established from,-0.7502338770224807
+tfidf__broader societal,-0.7502338770224807
+tfidf__contributes to,-0.7502338770224807
+tfidf__poorly understood,-0.7502338770224807
+tfidf__field this,-0.7502338770224807
+tfidf__literature by,-0.7502338770224807
+tfidf__is,-0.7505469711170784
+tfidf__though,-0.795991885704107
+tfidf__on,-0.9731322718754255
+tfidf__you,-0.992717230109245
+tfidf__that,-1.0138626007335239
+tfidf__been,-1.049538560499313
+tfidf__from,-1.0802703378558949
+tfidf__the literature,-1.0933509765403946
+tfidf__several,-1.1185016348939005
+tfidf__has been,-1.161137582696475
+struct__has_casual_marker,-1.1669457892512443
+tfidf__something do,-1.1709742535507985
+tfidf__otherwise,-1.1709742535507985
+tfidf__you otherwise,-1.1709742535507985
+tfidf__complicated,-1.1709742535507985
+tfidf__your own,-1.1709742535507985
+tfidf__complicated and,-1.1709742535507985
+tfidf__otherwise is,-1.1709742535507985
+tfidf__own research,-1.1709742535507985
+tfidf__own,-1.1709742535507985
+tfidf__do your,-1.1709742535507985
+tfidf__selling,-1.1709742535507985
+tfidf__update,-1.1709742535507985
+tfidf__update on,-1.1709742535507985
+tfidf__something,-1.1709742535507985
+tfidf__is selling,-1.1709742535507985
+tfidf__anyone,-1.1709742535507985
+tfidf__anyone telling,-1.1709742535507985
+tfidf__do,-1.1709742535507985
+tfidf__it complicated,-1.1709742535507985
+tfidf__telling,-1.1709742535507985
+tfidf__selling something,-1.1709742535507985
+tfidf__and anyone,-1.1709742535507985
+tfidf__telling you,-1.1709742535507985
+tfidf__research please,-1.1709742535507985
+tfidf__please,-1.1709742535507985
+tfidf__today,-1.1792546397993937
+tfidf__official,-1.182398716686657
+tfidf__the,-1.2234325376219661
+tfidf__to the,-1.2367842714786978
+tfidf__in the,-1.4689170033124492
+struct__has_caps_word,-1.8236860223917082
+struct__domain_academic,-2.3686409406209084

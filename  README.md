@@ -67,8 +67,8 @@ cost of missing roughly a third of AI text on unfamiliar phrasing.
 - [x] Phase 2: Data Cleaning and Feature Engineering
 - [x] Phase 3: Baseline Modeling
 - [x] Phase 4: Tuning and Cross-Domain Validation
-- [ ] Phase 5: Advanced Modeling
-- [ ] Phase 6: Error Analysis and Interpretability
+- [x] Phase 5: Advanced Modeling
+- [x] Phase 6: Error Analysis and Interpretability
 - [ ] Phase 7: Robustness and Final Model Selection
 - [ ] Phase 8: Final Report
 
