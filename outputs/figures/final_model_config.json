@@ -1,0 +1,9 @@
+{
+  "model": "LogisticRegression",
+  "C": 10,
+  "class_weight": "balanced",
+  "features": "tfidf_3000_1-2gram_min_df2 + structural",
+  "decision_threshold": 0.3074014451592039,
+  "expected_precision_ai": 0.7051509769094139,
+  "expected_recall_ai": 0.5960960960960962
+}
