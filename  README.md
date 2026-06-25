@@ -69,11 +69,5 @@ cost of missing roughly a third of AI text on unfamiliar phrasing.
 - [x] Phase 4: Tuning and Cross-Domain Validation
 - [x] Phase 5: Advanced Modeling
 - [x] Phase 6: Error Analysis and Interpretability
-- [ ] Phase 7: Robustness and Final Model Selection
-- [ ] Phase 8: Final Report
-
-## Running the Pipeline
-
-python scripts/01_eda.py
-python scripts/02_feature_engineering.py
-python scripts/03_baseline_modeling.py
+- [x] Phase 7: Robustness and Final Model Selection
+- [x] Phase 8: Final Report
